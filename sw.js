@@ -1,4 +1,4 @@
-const CACHE = 'gym-strike-off-v4-cache';
+const CACHE = 'gym-strike-off-v5-cache';
 
 const ASSETS = [
   './',
